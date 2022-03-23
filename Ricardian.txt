@@ -6,4 +6,4 @@ The DAO trades Product_Tickets for (usually un-associated) Work_Contracts.  This
 
 Product_Tickets are neither Equity nor Debt and do not suggest any financial return.
 
-b706b3580562977217900c5764d026a3
+16c184ac93a7bbdf533444bde3886fa0  Ricardian.txt
