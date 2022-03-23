@@ -1,7 +1,9 @@
-Each Product Ticket is a legally binding claim between the **producer** (Work Contract signatory) and the **consumer** (Product Ticket holder) representing the future production of a specific good or service at a projected quality and quantity and delivery date, often as a subscription.
+Each Product_Ticket represents a future good or service at a projected quality and quantity and delivery date, often as a subscription, held under the terms of the [For Product](https://docs.google.com/document/d/1cRYLXIQnNWfXNU88UvxdlKgdLfOyoXSvl4xyp6xytMU/) development model.
 
-Product Tickets are sold *before* that good or service has been created, usually as a way to fund that production.
+Each Product_Ticket may require many associated Work_Contracts as it moves through the supply chain.
+P/
+The DAO trades Product_Tickets for (usually un-associated) Work_Contracts.  This means you can pay for future apples by picking future oranges.
 
-Product Tickets are neither Equity nor Debt and do not suggest any financial return.
+Product_Tickets are neither Equity nor Debt and do not suggest any financial return.
 
-7bf8616bdfe3cb0a992e8b52fc4376ad
+b706b3580562977217900c5764d026a3
