@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           ls
-          sha256sum Ricardian.txt >> Ricardian.txt
+          sha256sum Ricardian.txt
           echo txt2pdf Ricardian.txt
